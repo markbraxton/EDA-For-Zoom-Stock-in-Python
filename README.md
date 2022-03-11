@@ -5,7 +5,7 @@ In this EDA, will share some tips to help explore any stock with simple librarie
 
 In this EDA, I use the following libraries (modules used in parenthesis):
 
-  1. datetime (datetime (not a mistake! The module's name is the same as the library name.)
+  1. datetime (datetime (not a mistake! The module's name is the same as the library name.))
   2. pandas
   3. pandas_datareader
   4. matplotlib.pyplot ("inline" to help with subplots)
